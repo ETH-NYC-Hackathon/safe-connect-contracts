@@ -1,0 +1,20 @@
+node_modules
+
+env/.env.mainnet
+env/.env.rinkeby
+env/.env.polygon
+env/.env.polygon_test
+env/.env.local
+
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+yarn.lock
+
+*.log
+

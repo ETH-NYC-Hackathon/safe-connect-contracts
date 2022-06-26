@@ -1,0 +1,32 @@
+{
+  "mainnet": {
+    "chainId": "1",
+    "rpc": "https://mainnet.infura.io/v3/",
+    "explore": "https://etherscan.io/"
+  },
+  "rinkeby": {
+    "chainId": "4",
+    "rpc": "https://rinkeby.infura.io/v3/",
+    "explore": "https://rinkeby.etherscan.io/"
+  },
+  "goerli": {
+    "chainId": "5",
+    "rpc": "https://goerli.infura.io/v3/",
+    "explore": "https://goerli.etherscan.io/"
+  },
+  "polygon": {
+    "chainId": "137",
+    "rpc": "https://polygon-mainnet.infura.io/v3/",
+    "explore": "https://explorer-mainnet.polygonvigil.com/"
+  },
+  "polygon_test": {
+    "chainId": "80001",
+    "rpc": "https://polygon-mumbai.infura.io/v3/",
+    "explore": "https://explorer-mumbai.polygonvigil.com/"
+  },
+  "localhost": {
+    "chainId": "31337",
+    "rpc": "",
+    "explore": ""
+  }
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "protocol": "https",
+    "host": "app.uniswap.org",
+    "origin": "https://app.uniswap.org",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "app.sushi.com",
+    "origin": "https://app.sushi.com",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "app.aave.com",
+    "origin": "https://app.aave.com",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "yearn.finance",
+    "origin": "https://yearn.finance",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "app.1inch.io",
+    "origin": "https://app.1inch.io",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "app.compound.finance",
+    "origin": "https://app.compound.finance",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "app.olympusdao.finance",
+    "origin": "https://app.olympusdao.finance",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "stake.lido.fi",
+    "origin": "https://stake.lido.fi",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "curve.fi",
+    "origin": "https://curve.fi",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "app.bancor.network",
+    "origin": "https://app.bancor.network",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "www.convexfinance.com",
+    "origin": "https://www.convexfinance.com",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "templedao.link",
+    "origin": "https://templedao.link",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 0
+  },
+  {
+    "protocol": "https",
+    "host": "app.ribbon.finance",
+    "origin": "https://app.ribbon.finance",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 1
+  },
+  {
+    "protocol": "https",
+    "host": "app.rari.capital",
+    "origin": "https://app.rari.capital",
+    "maker": "0x574ee77D1efA257c82D93D0da45B2489ce835Ef5",
+    "dataType": "",
+    "status": 2
+  }
+]
