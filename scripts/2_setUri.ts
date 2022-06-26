@@ -13,7 +13,7 @@ export const networkName =
   hre.network.name === "hardhat" ? "localhost" : <NetworkName>hre.network.name;
 
 const main = async () => {
-  const safeConnectRegistryAddress = addressJson["4"].SafeConnectRegistry;
+  const safeConnectRegistryAddress = addressJson["69"].SafeConnectRegistry;
   const safeConnectRegistry = await ethers.getContractAt(
     "SafeConnectRegistry",
     safeConnectRegistryAddress
@@ -25,7 +25,7 @@ const main = async () => {
 
   await Promise.all(
     safeUri.map(async (uri, i) => {
-      if (i === 12) {
+      if (i === 11) {
         const data = {
           ...uri,
           dataType: id("SET"),
@@ -54,7 +54,9 @@ const main = async () => {
           gasLimit,
         });
         console.log(setUriResult);
-
+        await new Promise((resolve) => {
+          setTimeout(resolve, 1000);
+        });
         const getUriResult = await safeConnectRegistry.getUri(
           ethers.utils.keccak256(
             abiCoderEncode(

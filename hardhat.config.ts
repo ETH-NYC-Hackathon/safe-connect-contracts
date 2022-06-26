@@ -50,6 +50,14 @@ const config: HardhatUserConfig = {
       url: network.polygon_test.rpc,
       accounts: [privateKey],
     },
+    optimism: {
+      url: network.optimism.rpc,
+      accounts: [privateKey],
+    },
+    optimism_test: {
+      url: network.optimism_test.rpc,
+      accounts: [privateKey],
+    },
   },
   contractSizer: {
     alphaSort: true,

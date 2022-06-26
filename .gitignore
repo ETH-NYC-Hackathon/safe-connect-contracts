@@ -4,6 +4,8 @@ env/.env.mainnet
 env/.env.rinkeby
 env/.env.polygon
 env/.env.polygon_test
+env/.env.optimism
+env/.env.optimism_test
 env/.env.local
 
 coverage

@@ -16,7 +16,9 @@
     "deploy-contract-to-rinkeby": "env-cmd -f env/.env.rinkeby hardhat run scripts/99_verify.ts --network rinkeby",
     "deploy-contract-to-goerli": "env-cmd -f env/.env.goerli hardhat run scripts/99_verify.ts --network goerli",
     "deploy-contract-to-matic": "env-cmd -f env/.env.matic hardhat run scripts/99_verify.ts --network matic",
-    "deploy-contract-to-matic_test": "env-cmd -f env/.env.matic_test hardhat run scripts/99_verify.ts --network matic_test"
+    "deploy-contract-to-matic-test": "env-cmd -f env/.env.matic_test hardhat run scripts/99_verify.ts --network matic_test",
+    "deploy-contract-to-optimism": "env-cmd -f env/.env.optimism hardhat run scripts/99_verify.ts --network optimism",
+    "deploy-contract-to-optimism-test": "env-cmd -f env/.env.optimism_test hardhat run scripts/2_setUri.ts --network optimism_test"
   },
   "dependencies": {
     "@openzeppelin/contracts": "4.5.0",

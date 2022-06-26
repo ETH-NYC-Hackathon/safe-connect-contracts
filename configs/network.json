@@ -24,6 +24,16 @@
     "rpc": "https://polygon-mumbai.infura.io/v3/",
     "explore": "https://explorer-mumbai.polygonvigil.com/"
   },
+  "optimism": {
+    "chainId": "10",
+    "rpc": "https://mainnet.optimism.io/",
+    "explore": "https://optimistic.etherscan.io/"
+  },
+  "optimism_test": {
+    "chainId": "69",
+    "rpc": "https://kovan.optimism.io",
+    "explore": "https://kovan-optimistic.etherscan.io/"
+  },
   "localhost": {
     "chainId": "31337",
     "rpc": "",
